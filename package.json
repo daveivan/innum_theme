@@ -1,0 +1,22 @@
+{
+    "name": "innum",
+    "displayName": "Innum",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "dave",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Innum",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Innum-color-theme.json"
+            }
+        ]
+    }
+}
